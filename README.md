@@ -26,7 +26,7 @@
 
 💞️ **I’m looking to collaborate on**: Projects that challenge the status quo and leverage technology for smarter industrial solutions.
 
-📫 **How to reach me**: Feel free to send me a message through GitHub or connect with me on [LinkedIn](your-linkedin-profile-link).
+📫 **How to reach me**: Feel free to send me a message through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/federico-parente-1380a5162/).
 
 <!---
 federico-parente/federico-parente is a special repository because its `README.md` (this file) appears on your GitHub profile.
