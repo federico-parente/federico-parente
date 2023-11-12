@@ -17,7 +17,7 @@
 
 🛠️ **Technologies and Tools:**
 
-- **Hardware**: Raspberry Pi
+- **Hardware**: Raspberry Pi, STM microcontrollers
 - **Programming**: Node-RED, OpenPLC, Mach4, C#, C++, C, Python
 - **Web Technologies**: JavaScript, HTML
 - **Frameworks**: ASP.NET
